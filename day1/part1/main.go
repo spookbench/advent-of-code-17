@@ -14,7 +14,7 @@ func check(e error) {
 }
 
 func main() {
-	dat, err := ioutil.ReadFile("input.txt")
+	dat, err := ioutil.ReadFile("../input.txt")
 	check(err)
 	numbers := strings.Split(string(dat), "")
 	result := 0
@@ -32,6 +32,5 @@ func main() {
 			}
 		}
 	}
-
 	fmt.Print(result)
 }
