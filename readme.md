@@ -5,7 +5,7 @@
 | 03  |         |        |          |
 | 04  | [★](https://github.com/Cigh/advent-of-code-17/blob/master/day4/part1/main.go)      | [★](https://github.com/Cigh/advent-of-code-17/blob/master/day4/part2/main.go)      | golang   |
 | 05  | [★](https://github.com/Cigh/advent-of-code-17/blob/master/day5/part1/main.go)      | [★](https://github.com/Cigh/advent-of-code-17/blob/master/day5/part2/main.go)      | golang   |
-| 06  |         |        |          |
+| 05  | [★](https://github.com/Cigh/advent-of-code-17/blob/master/day6/part1/main.go)      |    | golang   |
 | 07  |         |        |          |
 | 08  |         |        |          |
 | 09  |         |        |          |
