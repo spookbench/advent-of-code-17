@@ -30,6 +30,7 @@ func main() {
 
 	banks := convertToIntArray(arr)
 	for !stateAlreadySeen(prevStates, banks) {
+		fmt.Println(banks)
 		result++
 		prevStates = append(prevStates, append([]int(nil), banks...))
 		max, maxIndex := maxValue(banks)
